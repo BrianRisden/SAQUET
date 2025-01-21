@@ -2,11 +2,14 @@
 
 ## Demo
 Try out a very basic gpt-4o version here: [https://saquet.streamlit.app/](https://saquet.streamlit.app/)  
-*Looking to update this 11-10-2024*
+*Looking to update this 01-29-2024*
 
 ## About
 SAQUET provides an automatic method to apply the 19-criteria Item Writing Flaws for evaluating the quality of multiple-choice questions (MCQs)!  
 This toolkit aids in assessing MCQ quality effectively.
+
+## Recent Changes
+01/21/2025: Updated around half the criteria to follow a ratings-based approach, that now asks for a score 1-10 when the LLM verification happens and takes the average of three scores. Also uses gpt-4o currently. 
 
 ## Additional Information
 For more details, please refer to these two papers:  
