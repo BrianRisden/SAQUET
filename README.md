@@ -1,8 +1,7 @@
 # SAQUET: Scalable Automatic Question Usability Evaluation Toolkit
 
 ## Demo
-Try out a very basic gpt-4o version here: [https://saquet.streamlit.app/](https://saquet.streamlit.app/)  
-*Looking to update this 01-29-2024*
+The SAQUET web app will be released on 05-06-2025
 
 ## About
 SAQUET provides an automatic method to apply the 19-criteria Item Writing Flaws for evaluating the quality of multiple-choice questions (MCQs)!  
