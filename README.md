@@ -1,7 +1,8 @@
 # SAQUET: Scalable Automatic Question Usability Evaluation Toolkit
 
 ## Demo
-saquet.io
+[saquet.io](https://saquet.io)
+
 Note, I just got this working on GCP and such on 05-21-2025, will look to update it next week to be more usable!
 
 ## About
