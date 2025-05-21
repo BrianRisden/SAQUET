@@ -1,7 +1,8 @@
 # SAQUET: Scalable Automatic Question Usability Evaluation Toolkit
 
 ## Demo
-The SAQUET web app will be released on 05-06-2025
+saquet.io
+Note, I just got this working on GCP and such on 05-21-2025, will look to update it next week to be more usable!
 
 ## About
 SAQUET provides an automatic method to apply the 19-criteria Item Writing Flaws for evaluating the quality of multiple-choice questions (MCQs)!  
